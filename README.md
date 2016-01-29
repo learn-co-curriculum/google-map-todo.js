@@ -53,4 +53,4 @@ This todo is tested using Capybara so run `rspec` after you've completed the ste
 * [W3Schools](http://www.w3schools.com) - [HTML5 Geolocaton](http://www.w3schools.com/html/html5_geolocation.asp)
 * [Google Developers](https://developers.google.com/) - [Adding a Google Map](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map)
 
-<a href='https://learn.co/lessons/google-map-todo.js' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/google-map-todo.js' title='Google Maps'>Google Maps</a> on Learn.co and start learning to code for free.</p>
